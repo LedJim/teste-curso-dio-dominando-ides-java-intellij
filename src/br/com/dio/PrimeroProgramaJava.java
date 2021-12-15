@@ -9,6 +9,7 @@ public class PrimeroProgramaJava {
 
         System.out.println(gato);
         System.out.println(gato);
+        System.out.println(gato);
 
 //        int num1 = 10;
 //        int num2 = 3;
